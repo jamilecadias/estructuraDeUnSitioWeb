@@ -1,0 +1,30 @@
+header{
+    background-color: #EAC926;
+}
+main {
+    background-color: #ebebeb;
+}
+
+header p {
+    text-align: center;
+}
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+section { 
+    background-color:#c3c3c3;
+
+}
+
+.color-amarillo{
+    color: yelow;
+    color: rgb(247, 214, 32);
+    color: #f7d620;
+}
+h1,
+h2,
+h3,
+.color-amarillo {
+    text-decoration: underline;
+
+}
